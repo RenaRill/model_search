@@ -26,10 +26,10 @@ import keras_tuner
 
 from model_search import registry
 from model_search.ops import svdf_cell
-frt svdf_conv
+svdf_conv
 
 import tensorflow.compat.v2 as tf
-port tf_slim
+tf_slim
 # TODO(b/172564129): better documentation for this file. http://b/130796421
 
 
